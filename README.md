@@ -1,4 +1,6 @@
-# Pandas Homework - Pandas, Pandas, Pandas
+# Data Analysis using Pandas.
+
+Analyzing the data a fantasy game, Heroes of Pymoli, using Pandas.
 
 ## Background
 

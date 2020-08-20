@@ -1,8 +1,8 @@
 # Data Analysis using Pandas.
 
-Analyzing the data for a fantasy game, Heroes of Pymoli, using Pandas and Jupyter lab.
+This project is analyzing the data for a fantasy game, Heroes of Pymoli, using Pandas and Jupyter lab.
 
-Like many others in its genre, the game is free-to-play, but players are encouraged to purchase optional items that enhance their playing experience. This program generates a report that breaks down the game's purchasing data into meaningful insights.
+Like many others in its genre, the game is free-to-play, but players are encouraged to purchase optional items that enhance their playing experience. Here, I am generating a report that breaks down the game's purchasing data into meaningful insights.
 
 The report includes each of the following:
 
